@@ -1,0 +1,15 @@
+.steps {
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+}
+
+.count {
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+}
+
+button {
+  margin: 1rem;
+}
